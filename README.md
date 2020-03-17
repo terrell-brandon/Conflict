@@ -1,0 +1,2 @@
+# Conflict
+Résoudre un conflit
